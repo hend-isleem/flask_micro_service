@@ -19,7 +19,6 @@ def get_products():
         product_data = {
             'id': product['id'],
             'title': product['title'],
-            'brand': product['brand'],
             'price': product['price'],
             'description': product['description']
         }
