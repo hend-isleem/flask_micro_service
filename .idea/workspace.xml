@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c95a5576-c240-48bd-b426-8725634b6035" name="Changes" comment="Add create the requirements file and a package for the services">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c95a5576-c240-48bd-b426-8725634b6035" name="Changes" comment="Add create the requirements file and a package for the services" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738281836767</updated>
       <workItem from="1738281837969" duration="1314000" />
-      <workItem from="1738283214610" duration="139000" />
+      <workItem from="1738283214610" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="Add README">
       <option name="closed" value="true" />
